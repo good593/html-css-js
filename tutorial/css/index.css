@@ -1,0 +1,34 @@
+/* selector {
+  property: value;
+} */
+
+* {
+  color: green;
+}
+
+li {
+  color: blue;
+}
+
+li#special {
+  color: pink;
+}
+
+/* padding은 컨텐츠에 포함됨
+margin은 컨턴츠에 포함되지 않음 */
+.red {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  margin: 20px dashed red;
+  background: yellow;
+}
+
+button:hover {
+  color: red;
+  background: beige;
+}
+
+a[href$=".com"] {
+  color: purple;
+}
