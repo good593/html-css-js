@@ -1,6 +1,8 @@
 # CSS; Cascading Style Sheet
 
 - https://developer.mozilla.org/ko/docs/Web/CSS/Reference
+- https://caniuse.com/
+- https://postcss.org/
 
 ## 공부하기 좋은 싸이트
 
@@ -20,3 +22,15 @@
 - Class -> .class
 - State -> :
 - Attribute -> []
+
+## display
+
+- block level 또는 inline level로 변경 가능
+
+## position
+
+- static : 기본값 (위치가 변경되지 않음)
+- relative : 원래 위치를 기준으로
+- absolute : 상위 위치를 기준으로
+- fixed : 웹 페이지 기준으로
+- sticky : 원래 위치 및 스크롤링이 변경되어도 같은 위치를 기준으로
