@@ -3,13 +3,14 @@ span {
   width: 80px;
   height: 80px;
   margin: 20px;
+  padding: 5px;
 }
-
+/* div default : Block level */
 div {
   background: red;
   display: inline-block;
 }
-
+/* span default : Inline level */
 span {
   background: blue;
   display: block;

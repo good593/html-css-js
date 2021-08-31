@@ -12,9 +12,30 @@ div {
   position: static;
 }
 
-.box {
+#relative {
   background: blue;
   left: 20px;
   top: 20px;
-  position: static;
+  position: relative;
+}
+
+#absolute {
+  background: blue;
+  left: 20px;
+  top: 20px;
+  position: absolute;
+}
+
+#fixed {
+  background: blue;
+  left: 20px;
+  top: 20px;
+  position: fixed;
+}
+
+#sticky {
+  background: blue;
+  left: 20px;
+  top: 20px;
+  position: sticky;
 }
