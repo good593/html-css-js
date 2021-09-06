@@ -19,6 +19,3 @@
 ### html > Element > 사용법 및 지원 가능한 브라우저 확인
 
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
-
-연습
-ㅁㄴㅇㄹ
