@@ -64,3 +64,7 @@
 - [대체 요소](https://developer.mozilla.org/ko/docs/Web/CSS/Replaced_element)
 - [쌓임 맥락](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 - [시각적 서식 맥락](https://developer.mozilla.org/ko/docs/Web/CSS/Visual_formatting_model)
+
+## [CSS 전처리기](https://developer.mozilla.org/ko/docs/Glossary/CSS_preprocessor)
+
+- https://kdydesign.github.io/2019/05/12/css-preprocessor/
