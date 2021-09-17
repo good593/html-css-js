@@ -50,12 +50,31 @@
 > - [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav) contains the main navigation functionality for the page. Secondary links, etc., would not go in the navigation.
 > - [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer) represents a group of end content for a page.
 
-# [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
+# [Html](https://ㅠdeveloper.mozilla.org/en-US/docs/Web/HTML)
 
-### html > Element
+## Box elements & Item elements
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+---
 
-### html > Element > 사용법 및 지원 가능한 브라우저 확인
+### Item elements
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+> 브라우저에 컨텐츠가 없어도 보이는 태그 또는 컨텐츠를 꾸며주는 태그
+>
+> - a, video, button, audio, input, map, label, canvas, img, table 등
+
+### Box elements
+
+> 브라우저에 컨텐츠가 없으면 보이지 않는 태그 또는 영역이나 의미를 정의하는 태그
+>
+> - header, section, footer, article, nav, div, aside, span, main, form, h1 등
+
+## Inline elements & Block-level elements
+
+---
+
+> HTML elements are usually "inline" or "block-level" elements. An inline element occupies only the space bounded by the tags that define it.  
+> A block-level element occupies the entire space of its parent element (container), thereby creating a "block".
+
+### [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+
+### [Block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
